@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/notes-app/static/js/main.53a91f62.js",
+    "static/media/note-book.svg": "/notes-app/static/media/note-book.f2c220e54eea3ff1b40709d3a48e3ed9.svg",
+    "index.html": "/notes-app/index.html",
+    "main.53a91f62.js.map": "/notes-app/static/js/main.53a91f62.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.53a91f62.js"
+  ]
+}
